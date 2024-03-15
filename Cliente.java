@@ -3,4 +3,5 @@ public class Cliente {
     private String cpf;
     private int agencia;
     private int saldo_em_dolar;
+    private double saldo_emReal;
 }
